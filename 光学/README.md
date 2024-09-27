@@ -4,6 +4,6 @@
 因原文件过大拆分为四个部分。
 
 参考资料：
-- Hecht <Optics>
+- Hecht《Optics》
 - 赵凯华《光学》
 - Griffiths《电动⼒学导论》
