@@ -7,8 +7,7 @@
 如果这些笔记对你有帮助，请帮我点亮上方的Star⭐️
 
 如果发现笔记存在任何问题，欢迎使用Pull requests，或者给我发邮件:
-- 📧 chen.huang23@imperial.ac.uk
-- 📧 physchenhuang@gmail.com
+- 📧 chen.huang678@gmail.com
 
 ## 相关链接
 - [北京大学暑期学校量子力学(II)笔记](https://github.com/chenx820/PKU-QMII-notes)
